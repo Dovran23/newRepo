@@ -8,5 +8,6 @@ namespace ConsoleApp
 {
     internal class Class1
     {
+        string b = "bashga branch";
     }
 }
